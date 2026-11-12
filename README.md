@@ -5,9 +5,13 @@ An end-to-end BI project analysing customer churn at YDP Bank to identify at-ris
 
 <img width="1321" height="748" alt="image" src="https://github.com/user-attachments/assets/695f9f85-42d5-4485-87b1-c753ce42c773" />
 
+---
 
 
 <img width="1380" height="723" alt="image" src="https://github.com/user-attachments/assets/a6584ce7-ec46-45fc-8746-76a5b9f30d03" />
+
+
+---
 
 
 <img width="1472" height="735" alt="image" src="https://github.com/user-attachments/assets/8c3c654c-29ef-49da-84d3-a5bfa2d37ba0" />
@@ -91,6 +95,11 @@ The findings highlight customer inactivity, high-balance customer exits, and spe
 The project concludes with practical recommendations focused on customer re-engagement, early-tenure support, high-value customer retention, and further investigation of unusual churn patterns.
 
 **The overall objective was to transform raw customer records into actionable business insights that could support more informed customer retention decisions.**
+
+[Download & Explore the Interactive Excel Dashboard](https://github.com/Rofiat-Adebayo/YDP-Bank-Customer-Churn-Retention-Analytics/blob/main/!%20YDP-Bank%20Records%20(version%201).xlsb.xlsm)
+
+*Download the Excel workbook and open it in desktop Excel to explore the interactive dashboards, slicers, and VBA-powered features.*
+
 
 
 ## 1. Project at a glance
