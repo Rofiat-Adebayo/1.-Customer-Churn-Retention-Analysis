@@ -130,6 +130,21 @@ That raised a more important business question: were these exits distributed eve
 
 ---
 
+
+## Data Source
+
+The dataset used for this project contains 10,000 customer records and includes customer demographics, account information, product ownership, activity status, and customer exit status.
+
+- **Dataset:** YDP Bank Customer Records
+- **Records:** 10,000 customer records
+- **Format:** Excel (.xlsx)
+
+**Dataset access:** [View and download the dataset](https://github.com/Rofiat-Adebayo/YDP-Bank-Customer-Churn-Retention-Analytics/blob/main/YDP-Bank%20Records%20Dataset%20csv.xlsx)
+
+*Note: YDP Bank is used as a project case study.*
+
+---
+
 ## 2. Understanding the business problem
 
 Customer churn is more than a percentage on a dashboard. It represents customers who have stopped using the bank's services.
